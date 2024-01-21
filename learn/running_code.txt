@@ -1,0 +1,8 @@
+In terminal:
+Python - start
+Quit() - stop
+Clear - clear terminal
+Python -m “name_of_file” -> run code in file
+Command Palette - Control+Shift+P
+
+The first word python is the program responsible for interpreting your code. The second symbol, -m, is what we call an “option” that is short for “run as module”. Lastly, exercises.ex00_hello_world is referring to the file you created! 

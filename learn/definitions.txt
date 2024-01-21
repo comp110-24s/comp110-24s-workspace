@@ -1,0 +1,9 @@
+Input is data given to an algorithm. An algorithm is a series of steps that returns some result. An algorithm may be influenced by its environment, and it may produce side-effects which influence its environment.
+An algorithm is set of steps to solve a general problem, Finite, Can handle a problem of arbitrary size
+Pseudocode: simple and readable version of algorithm that resembles code
+Assignment Operator: Assigns a variable some value (a=2)
+Loop Statement: Repeatedly performs an action a fixed number of times
+Relational Operator: Compares two values (a>b)
+Conditional Statement: If statement that only performs an action under certain conditions 
+Function: Generalizes code to work for a generic input 
+“REPL” “Read Execute Print Loop”
